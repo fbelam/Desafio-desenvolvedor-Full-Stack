@@ -140,8 +140,7 @@ if __name__ == '__main__':
 
 9- Print do Insomnia ou Postman com o método POST da API;
 
-![Metodo_POST](https://github.com/fbelam/Desafio-desenvolvedor-Full-Stack/assets/36649120/615e95b9-6c59-4a15-a101-16fcb9ca7a48)
-
+![Metedo_POST](https://github.com/fbelam/Desafio-desenvolvedor-Full-Stack/assets/36649120/44b537e0-c6b9-471b-93ea-c727c9375513)
 
 10- Print do Insomnia ou Postman com o método PUT da API; 
 
