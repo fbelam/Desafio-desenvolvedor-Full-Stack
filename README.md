@@ -121,7 +121,8 @@ Eu criei uma pasta chamada "templates" e dentro dela criei um arquivo chamado "i
 
 8- Print do Insomnia ou Postman com o método GET da API; 
 
-/img/Metodo_GET.png
+![Metodo_GET](https://github.com/fbelam/Desafio-desenvolvedor-Full-Stack/assets/36649120/154a6da4-ec67-4ce5-a2d3-f2d171fef2d6)
+
 
 9- Print do Insomnia ou Postman com o método POST da API; 
 
