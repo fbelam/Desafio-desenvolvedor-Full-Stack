@@ -149,6 +149,5 @@ Nao consegui fazer funcionar
 
 11- Print do Insomnia ou Postman com o método DELETE da API;
 
-![Metodo_DELETE](https://github.com/fbelam/Desafio-desenvolvedor-Full-Stack/assets/36649120/9445d639-6fde-4dcb-9e03-02787346728f)
-
+![Metedo_delete](https://github.com/fbelam/Desafio-desenvolvedor-Full-Stack/assets/36649120/b4f20744-3eca-49c9-bb0f-ea358ce962b5)
 
