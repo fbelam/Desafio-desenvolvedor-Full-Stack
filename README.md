@@ -117,6 +117,21 @@ Eu criei uma pasta chamada "templates" e dentro dela criei um arquivo chamado "i
 
 7- Como executar o Backend e Frontend da aplicação? 
 
+1 - instale o Flask pip install flask
+2 - Crie um arquivo chamado app.py e abra no VSCode
+3-  Importe a classe Flask do módulo flask from flask import Flask
+4- Crie uma instância do Flask: app = Flask(__name__)
+5- Defina uma rota e uma função de visualização para a página inicial: 
+@app.route('/')
+def hello():
+    return 'Hello, World!'
+6- Adicione um bloco de código para executar o aplicativo somente quando o arquivo for executado diretamente:
+if __name__ == '__main__':
+    app.run()
+7- execute no VScode
+8- Abra o navegador e insira no endereço o numero http://localhost:5000
+
+
 
 
 8- Print do Insomnia ou Postman com o método GET da API; 
@@ -131,5 +146,10 @@ Eu criei uma pasta chamada "templates" e dentro dela criei um arquivo chamado "i
 
 10- Print do Insomnia ou Postman com o método PUT da API; 
 
-11- Print do Insomnia ou Postman com o método DELETE da API; 
+Nao consegui fazer funcionar
+
+11- Print do Insomnia ou Postman com o método DELETE da API;
+
+![Metodo_DELETE](https://github.com/fbelam/Desafio-desenvolvedor-Full-Stack/assets/36649120/9445d639-6fde-4dcb-9e03-02787346728f)
+
 
