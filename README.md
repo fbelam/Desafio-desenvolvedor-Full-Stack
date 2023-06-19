@@ -105,7 +105,7 @@ INSERT INTO tb_resultado_viabilidade (id, id_viabilidade, id_parceiro_resposta, 
 
 4-	Você tem alguma sugestão de melhoria na estrutura de banco de dados enviado? 
 
-Tive que fazer algumas alterações nos tipos e tamanhos das colunas. Por exemplo, a coluna "endereco_parceiro" foi modificada de VARCHAR(100) para VARCHAR(200), pois havia endereços que precisavam ser inseridos com mais de 100 caracteres. Já as colunas "cnpj" e "uf_cobertura" foram alteradas para CHAR(18) e CHAR(2), respectivamente, pois seus tamanhos são fixos.
+Tive que fazer algumas alterações nos tipos e tamanhos das colunas. Por exemplo, a coluna "endereco_parceiro" foi modificada de VARCHAR(100) para VARCHAR(200), pois havia endereços que precisavam ser inseridos com mais de 100 caracteres. Já as colunas "cnpj" e "uf_cobertura" foram alteradas para CHAR(18) e CHAR(2), respectivamente, pois seus tamanhos são fixos.Outra alteracao que teria que ser feita e a mudanca dos ids para auto-increment.
 
 5- Qual foi a lib Python usada para criar a API e por que? 
 
