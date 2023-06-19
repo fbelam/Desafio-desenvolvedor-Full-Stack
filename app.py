@@ -26,7 +26,7 @@ def Index():
 @app.route('/insert', methods = ['POST'])
 def insert():
     if request.method == "POST":
-        flash("Data Inserted Successfully")
+        flash("Dado inserido com sucesso!")
         id = request.form['id']
         id_viabilidade = request.form['id_par']
         id_parceiro_resposta = request.form['id_via']
